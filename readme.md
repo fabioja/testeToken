@@ -1,1 +1,10 @@
 #TESTE2
+Esse fato ocorreu em uma manhã típica de 2008, com o sol brilhando forte como sempre, mas para mim, o dia estava prestes a se tornar uma verdadeira comédia. Eu precisava levar minha esposa para o trabalho antes de seguir para o meu, e tudo parecia estar nos trilhos... até que entrei para dar a partida no carro.
+Ao girar a chave, ouvi apenas um "clique". Parecia que o carro estava com problemas na bateria. Com minha esposa já sentada no banco do passageiro, eu sabia que precisava agir rápido.
+Após alguns segundos de reflexão e uma rápida pesquisa mental de todas as opções possíveis (que incluíam chamar o pessoal da auto elétrica, mas isso levaria tempo), decidi que dar um tranco no carro seria a melhor solução para aquele momento. "Vamos lá, querida! Segura firme!", falei, enquanto saía do carro e começava a empurrá-lo.
+Minha esposa olhou para mim com uma mistura de preocupação e diversão e disse: "Você tem certeza de que isso vai funcionar?", perguntou, tentando conter o riso.
+"Com certeza! É só pegar velocidade!", respondi, já começando a suar. Comecei a empurrar o carro por um quarteirão inteiro, fazendo movimentos dignos de um atleta olímpico. Cada passo era uma luta contra a gravidade e a inércia do veículo. Enquanto isso, minha esposa estava lá dentro, assistindo ao espetáculo como se fosse um show de comédia.
+Finalmente, após o que pareceu uma eternidade (e algumas olhadas curiosas dos vizinhos), consegui alcançar velocidade suficiente, então pulei para dentro do carro e girei a chave novamente. Para minha surpresa e alívio, o motor roncou! "Consegui!"
+Nesse momento, minha esposa virou-se para mim com um sorriso travesso e perguntou: "Cansou?".
+Eu olhei para ela, ofegante e quase morrendo de cansaço, e respondi: "Cansado? Estou mais para atleta olímpico do que para motorista hoje!".
+Ambos começamos a rir enquanto eu tentava recuperar um pouco do fôlego e assim seguimos o caminho rindo da situação. Afinal, quem precisa de academia quando se tem um carro com bateria fraca?
