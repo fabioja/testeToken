@@ -237,3 +237,21 @@ Estou muito feliz em estar nessa jornada ao seu lado e enfrentar novos desafios 
 
 Muito obrigado por tudo!
 
+prompt PDI
+preciso elaborar um PDI para area de desenvolvimento de software, esse deve incluir processos de automações no próprio desenvolvimento de software com uso de io, como implementações de feature com uso de agentes, incluindo os fluxo de teste unitários e e2e, consegue segerir um roadmap com base nesses reguisitos do PDI e também um pdi com base no SWOT?
+
+"Atue como um Mentor Sênior de Engenharia de Software e Especialista em Carreira Tech. Preciso que você elabore um Plano de Desenvolvimento Individual (PDI) detalhado para os próximos 12 meses, focado na transição para um perfil de AI Software Engineer / Automation Expert.
+
+Meu objetivo principal: Dominar a automação do ciclo de vida de desenvolvimento (SDLC) utilizando IA Generativa e Agentes Autônomos.
+
+O que o PDI deve contemplar obrigatoriamente:
+
+Agentes na Implementação de Features: Uso de frameworks (ex: LangChain, CrewAI ou AutoGPT) para criar agentes que escrevem código baseado em requisitos.
+
+Automação de Testes com IA: Fluxos de geração automática de testes unitários e testes End-to-End (E2E) que se auto-ajustam a mudanças na UI.
+
+Roadmap Técnico: Dividido por trimestres (Q1 a Q4), com marcos de aprendizado e projetos práticos.
+
+Análise SWOT Pessoal: Crie uma matriz SWOT hipotética para um desenvolvedor de software que busca essa especialização e, com base nela, gere ações práticas para o PDI (ex: como usar as Forças para mitigar as Ameaças do mercado).
+
+Formate a saída com tabelas, cronogramas claros e sugestões de ferramentas específicas."
